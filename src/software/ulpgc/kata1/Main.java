@@ -10,6 +10,6 @@ public class Main {
         student.study();
 
         Teacher teacher = new Teacher("Pepe", 50, "T6419246532");
-        teacher.teach();//
+        teacher.teach();
     }
 }
